@@ -53,4 +53,4 @@ jobs:
           app-name: 'reactmuiexpress'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0D058657AFF64EEC9E1210ACC5BC8C6E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7307EC3DD4DB4143BAE7259412778AB7 }}
